@@ -1,0 +1,268 @@
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\csc.exe
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\csc.exe.config
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\csc.rsp
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\csi.exe
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\csi.rsp
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.AppContext.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.Console.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\vbc.exe
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\vbc.exe.config
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\vbc.rsp
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\VBCSCompiler.exe
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Assignment8.dll.config
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Assignment8.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Assignment8.pdb
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Antlr3.Runtime.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\AutoMapper.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\EntityFramework.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\EntityFramework.SqlServer.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Newtonsoft.Json.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Owin.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Helpers.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Mvc.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Optimization.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Razor.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.Razor.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\WebGrease.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Antlr3.Runtime.pdb
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\AutoMapper.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Newtonsoft.Json.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Helpers.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Mvc.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Optimization.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Razor.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.Razor.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\EntityFramework.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\EntityFramework.SqlServer.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment9.csprojResolveAssemblyReference.cache
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment8.dll
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment8.pdb
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment8.Migrations.initial.resources
+C:\Users\msoloviov\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment9.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\csc.exe.config
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\csc.rsp
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\csi.exe
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\csi.rsp
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.Console.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\vbc.exe.config
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\vbc.rsp
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Assignment8.dll.config
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Assignment8.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Assignment8.pdb
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\AutoMapper.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\EntityFramework.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Owin.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Helpers.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Mvc.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Razor.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\WebGrease.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\AutoMapper.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\EntityFramework.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Helpers.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Mvc.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Optimization.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.Razor.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment9.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment8.Migrations.initial.resources
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment9.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment9.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment9.csproj.CopyComplete
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment8.dll
+\\Mac\Home\Desktop\Assignment9 - Copy\Assignment9 - Copy\Assignment8\obj\Debug\Assignment8.pdb
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\csc.exe.config
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\csc.rsp
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\csi.exe
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\csi.rsp
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\System.Console.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\vbc.exe.config
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\vbc.rsp
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\Project\Assignment8\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\Project\Assignment8\bin\Assignment8.dll.config
+\\Mac\Home\Desktop\Project\Assignment8\bin\Assignment8.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Assignment8.pdb
+\\Mac\Home\Desktop\Project\Assignment8\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\AutoMapper.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\EntityFramework.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Owin.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.Helpers.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.Mvc.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.Razor.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.WebPages.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\WebGrease.dll
+\\Mac\Home\Desktop\Project\Assignment8\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Desktop\Project\Assignment8\bin\AutoMapper.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\EntityFramework.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.Helpers.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.Mvc.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.Optimization.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.Razor.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.WebPages.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Desktop\Project\Assignment8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Desktop\Project\Assignment8\obj\Debug\Assignment9.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Project\Assignment8\obj\Debug\Assignment8.Migrations.initial.resources
+\\Mac\Home\Desktop\Project\Assignment8\obj\Debug\Assignment9.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Project\Assignment8\obj\Debug\Assignment9.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Project\Assignment8\obj\Debug\Assignment9.csproj.CopyComplete
+\\Mac\Home\Desktop\Project\Assignment8\obj\Debug\Assignment8.dll
+\\Mac\Home\Desktop\Project\Assignment8\obj\Debug\Assignment8.pdb

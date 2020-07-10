@@ -1,0 +1,61 @@
+﻿@model Project.Controllers.AlbumWithDetails
+
+@{
+    ViewBag.Title = "Details " + Model.Name;
+}
+
+<h2>Details for @Model.Name</h2>
+
+<div>
+
+    <hr />
+    @Html.ActionLink("Add track", "AddTrack", new { id = Model.Id })
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ReleaseDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReleaseDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UrlAlbum)
+        </dt>
+
+        <dd>
+            <img src="@Model.UrlAlbum" alt="image not found" height="200" width="300"/>
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Genre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Genre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.Raw(Model.Description)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Delete", "Delete", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

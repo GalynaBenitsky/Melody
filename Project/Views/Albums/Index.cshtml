@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Project.Controllers.AlbumBase>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>List of albums</h2>
+
+@using (Html.BeginForm("Index", "Album", FormMethod.Get))
+{
+   @* <b>Serach by:</b>
+    @Html.RadioButton("SearchBy", "Name", true)<text>Album Name</text> |
+    @Html.RadioButton("SearchBy", "Genre")<text>Genre</text>
+    <br />
+    @Html.TextBox("search")<input type="submit" value="Search"/>*@
+
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ReleaseDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UrlAlbum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Genre)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReleaseDate)
+            </td>
+            <td>
+                <img src="@item.UrlAlbum" alt="image not found" height="200" width="300" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>

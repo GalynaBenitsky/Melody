@@ -1,0 +1,79 @@
+﻿@model Project.Controllers.TrackWithDetails
+
+@{
+    ViewBag.Title = "Details" + Model.Name;
+}
+
+<h2>Details for @Model.Name</h2>
+
+<div>
+    <h4>TrackWithDetails</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Composer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Composer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Genre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Genre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Clerk)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Clerk)
+        </dd>
+
+        <dt>
+            Number of associated albums
+        </dt>
+
+        <dd>
+            @Model.AlbumNames.Count()
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AlbumNames)
+        </dt>
+
+        <dd>
+            @foreach (var item in Model.AlbumNames)
+            {
+                @item <br />
+            }
+
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AudioUrl)
+        </dt>
+
+        <dd>
+            <audio src="/audio/@Model.Id" controls="controls"></audio>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |*@
+    @Html.ActionLink("Delete", "Delete", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
