@@ -1,5 +1,6 @@
 # Melody -Music Library
-C# project using MVC, Database, CRUD. 
+
+Project was created with C# (MVC), Database, CRUD, HTML5, CSS and Bootstrap. 
 
 
 
